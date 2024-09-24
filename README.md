@@ -1,2 +1,1 @@
-# DA343A
-Objektorienterad programutveckling, trådar och datakommunikation
+#  Objektorienterad programutveckling, trådar och datakommunikation - DA343A
